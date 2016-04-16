@@ -12,7 +12,7 @@ To use this template, choose one of the following options to get started:
 This example was created by **[Faisal Al-Tameemi](http://faisalaltameemi.com)**, Head Web Instructor at [ Lighthouse Labs](http://lighthouselabs.com/) 
 
 * https://twitter.com/FaisalAlTameemi
-* https://github.com/faisalaltameemi
+* https://github.com/FaisalAl-Tameemi
 
 ## Credits
 
